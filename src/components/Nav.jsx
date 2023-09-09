@@ -24,7 +24,7 @@ const Nav = () => {
         <div className="hidden max-lg:block">
           <img src={hamburger} alt="Hamburger" width={25} height={25} />
         </div>
-        <button>Login</button>
+        {/* <button>Login</button> */}
       </nav>
     </header>
   );
